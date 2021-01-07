@@ -8,7 +8,7 @@ const getChunksOfArray = (array, size) =>
 
 /**
  *
- * @param {An array of any type.} arrayElements
+ * @param {An array of any type. This is the array you want to be sliced up.} arrayElements
  * @param {Should be a positive number. This is the number of slices you want to
  * split the array into.} numberOfSlices
  * @returns {An array of array chunks if you supply valid parameters. If invalid
